@@ -1,0 +1,10 @@
+{
+    "Database:":{
+        "SharedConnectionString":"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+    },
+    "ElasticSearch":{
+        "index":"search-calibr.ai.index",
+        "apiKey":"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+        "node":"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+    }
+}
