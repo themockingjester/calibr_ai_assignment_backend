@@ -1,4 +1,5 @@
 #### Live website link: http://fletnix.teckturt.co.in/
+##### Note: its better to run project in firefox or other browser (except chrome) because project is running on http.
 
 #### Note: Before running the project make sure you have properly configured the default.json file inside config folder (fr security purpose i have removed my credentials pls free to reach out to me.)
 Also i have used cloud hosted mongodb and elastic search for this project. 
